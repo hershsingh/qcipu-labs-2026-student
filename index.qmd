@@ -1,0 +1,17 @@
+---
+title: "QCIPU 2026 — Computational Labs"
+---
+
+Hands-on Jupyter labs for the **QCIPU 2026** school (June 8–26, 2026). The lab
+order and titles follow the [course syllabus](https://github.com/hershsingh/qcipu-labs-2026-student).
+
+## How to use these labs
+
+- Browse labs by week in the **sidebar**.
+- On any lab page, click the **▶ Open in Colab** badge at the top to run it in your
+  browser — no installation needed. The first code cell installs the packages the
+  lab uses (e.g. `qiskit`).
+- To keep your work in Colab, use **File → Save a copy in Drive**.
+
+The code cells you see here are the starting point; you'll fill in the parts marked
+`???` (or `# your code here`) when you run the notebook.

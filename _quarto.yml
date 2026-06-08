@@ -25,6 +25,7 @@ format:
   html:
     theme: cosmo
     toc: true
+    css: cellnums.css
 execute:
   enabled: false
 filters:

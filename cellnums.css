@@ -1,0 +1,34 @@
+/* Sequential cell numbers for notebook code cells.
+ *
+ * Quarto tags every notebook code cell's source block with `.sourceCode.cell-code`
+ * (on both run cells and un-run student cells, which are NOT wrapped in `.cell`).
+ * A per-page CSS counter numbers them 1, 2, 3 … and a `[N]` label is drawn in a small
+ * left gutter inside the code block, so it never overflows the layout. Referenced from
+ * the generated _quarto.yml (scripts/make_index.py). Purely cosmetic; no JS, no execute.
+ */
+
+body { counter-reset: qcell; }
+
+div.sourceCode.cell-code {
+  counter-increment: qcell;
+  position: relative;
+}
+
+/* make room for the [N] gutter on the code block */
+div.sourceCode.cell-code > pre {
+  padding-left: 3.1em;
+}
+
+div.sourceCode.cell-code::before {
+  content: "[" counter(qcell) "]";
+  position: absolute;
+  left: 0.55em;
+  top: 0.45em;
+  color: #adb5bd;
+  font-size: 0.8em;
+  line-height: 1.4;
+  font-family: var(--bs-font-monospace, SFMono-Regular, Menlo, Consolas, monospace);
+  white-space: nowrap;
+  user-select: none;
+  pointer-events: none;
+}

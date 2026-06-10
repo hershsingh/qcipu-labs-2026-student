@@ -2,8 +2,11 @@
 title: "QCIPU 2026 — Computational Labs"
 ---
 
-Hands-on Jupyter labs for the **QCIPU 2026** school (June 8–26, 2026). The lab
-order and titles follow the [course syllabus](https://github.com/hershsingh/qcipu-labs-2026-student).
+Hands-on Jupyter labs for the **QCIPU 2026** school (June 8–26, 2026).
+
+**Labs are released daily.** Each lab appears in the sidebar on the day it is
+taught — so check back each morning for the day's notebook. Labs from earlier in
+the school stay available, and upcoming labs are added as the school progresses.
 
 ## How to use these labs
 

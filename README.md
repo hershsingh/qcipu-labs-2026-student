@@ -10,8 +10,8 @@ _June 10–12 · Foundations — quantum mechanics & numerical methods_
 
 | # | Date | Lab | Notebook |
 |---|------|-----|----------|
-| 1 | Thu, Jun 11 | Solving the Schrödinger Equation I | _coming soon_ |
-| 2 | Thu, Jun 11 | Solving the Schrödinger Equation II | _coming soon_ |
+| 1 | Thu, Jun 11 | Solving the Schrödinger Equation I | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hershsingh/qcipu-labs-2026-student/blob/main/week-1/01_schrodinger_equation.ipynb) · [view](https://github.com/hershsingh/qcipu-labs-2026-student/blob/main/week-1/01_schrodinger_equation.ipynb) |
+| 2 | Thu, Jun 11 | Solving the Schrödinger Equation II | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hershsingh/qcipu-labs-2026-student/blob/main/week-1/02_schrodinger_equation_potentials.ipynb) · [view](https://github.com/hershsingh/qcipu-labs-2026-student/blob/main/week-1/02_schrodinger_equation_potentials.ipynb) |
 | 3 | Fri, Jun 12 | Computational Complexity and Sorting | _coming soon_ |
 | 4 | Fri, Jun 12 | Calculating π with Monte Carlo | _coming soon_ |
 | 5 | Fri, Jun 12 | The Sign Problem | _coming soon_ |
@@ -25,7 +25,7 @@ _June 15–18 · Qubits, gates, and the QFT_
 | 7 | Mon, Jun 15 | Schrödinger's Worm and Introducing 2-Qubit Gates | _coming soon_ |
 | 8 | Tue, Jun 16 | 2-Qubits: CNOT and Beyond | _coming soon_ |
 | 9 | Tue, Jun 16 | 2-Qubit Gate Decompositions | _coming soon_ |
-| 10 | Wed, Jun 17 | Quantum Adder | _coming soon_ |
+| 10 | Wed, Jun 17 | Quantum Adder ("So I heard you wanted to add numbers quantumly") | _coming soon_ |
 | 11 | Wed, Jun 17 | Quantum Teleportation | _coming soon_ |
 | 12–13 | Thu, Jun 18 | Quantum Fourier Transform (I & II) | _coming soon_ |
 
@@ -40,7 +40,7 @@ _June 22–26 · Algorithms, error handling, and the final project_
 | 18 | Tue, Jun 23 | Quantum Error Mitigation I | _coming soon_ |
 | 19 | Wed, Jun 24 | Quantum Error Mitigation II | _coming soon_ |
 | 20 | Wed, Jun 24 | Quantum Error Correction | _coming soon_ |
-| 21 | Thu, Jun 25 | Tolerate It | _coming soon_ |
+| 21 | Thu, Jun 25 | Fault-Tolerant Compilation ("Tolerate It") | _coming soon_ |
 | 22 | Thu, Jun 25 | Final Project (Start) | _coming soon_ |
 | 23 | Fri, Jun 26 | Final Project (Continued & Wrap-up) | _coming soon_ |
 

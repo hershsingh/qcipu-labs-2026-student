@@ -9,18 +9,17 @@ website:
   title: "QCIPU 2026 Labs"
   reader-mode: true
   page-navigation: true
-  repo-url: https://github.com/hershsingh/qcipu-labs-2026-student
-  repo-actions: [source]
   sidebar:
     style: docked
     search: true
-    collapse-level: 1
     contents:
       - text: Home
         href: index.qmd
-      - section: "Supplementary"
-        contents:
-          - week-x/1qubit_gates_visualizing.ipynb
+      - text: "1. Solving the Schrödinger Equation I"
+        href: week-1/01_schrodinger_equation.ipynb
+      - text: "2. Solving the Schrödinger Equation II"
+        href: week-1/02_schrodinger_equation_potentials.ipynb
+      - week-x/1qubit_gates_visualizing.ipynb
 format:
   html:
     theme: cosmo

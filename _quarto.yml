@@ -19,6 +19,12 @@ website:
         href: week-1/01_schrodinger_equation.ipynb
       - text: "2. Solving the Schrödinger Equation II"
         href: week-1/02_schrodinger_equation_potentials.ipynb
+      - text: "3. Computational Complexity and Sorting"
+        href: week-1/03_computational_complexity_and_sorting.ipynb
+      - text: "4. Calculating π with Monte Carlo"
+        href: week-1/04_pi_with_monte_carlo.ipynb
+      - text: "5. The Sign Problem"
+        href: week-1/05_sign_problem.ipynb
       - week-x/1qubit_gates_visualizing.ipynb
 format:
   html:

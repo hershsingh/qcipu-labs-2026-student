@@ -12,9 +12,9 @@ _June 10–12 · Foundations — quantum mechanics & numerical methods_
 |---|------|-----|----------|
 | 1 | Thu, Jun 11 | Solving the Schrödinger Equation I | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hershsingh/qcipu-labs-2026-student/blob/main/week-1/01_schrodinger_equation.ipynb) · [view](https://github.com/hershsingh/qcipu-labs-2026-student/blob/main/week-1/01_schrodinger_equation.ipynb) |
 | 2 | Thu, Jun 11 | Solving the Schrödinger Equation II | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hershsingh/qcipu-labs-2026-student/blob/main/week-1/02_schrodinger_equation_potentials.ipynb) · [view](https://github.com/hershsingh/qcipu-labs-2026-student/blob/main/week-1/02_schrodinger_equation_potentials.ipynb) |
-| 3 | Fri, Jun 12 | Computational Complexity and Sorting | _coming soon_ |
-| 4 | Fri, Jun 12 | Calculating π with Monte Carlo | _coming soon_ |
-| 5 | Fri, Jun 12 | The Sign Problem | _coming soon_ |
+| 3 | Fri, Jun 12 | Computational Complexity and Sorting | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hershsingh/qcipu-labs-2026-student/blob/main/week-1/03_computational_complexity_and_sorting.ipynb) · [view](https://github.com/hershsingh/qcipu-labs-2026-student/blob/main/week-1/03_computational_complexity_and_sorting.ipynb) |
+| 4 | Fri, Jun 12 | Calculating π with Monte Carlo | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hershsingh/qcipu-labs-2026-student/blob/main/week-1/04_pi_with_monte_carlo.ipynb) · [view](https://github.com/hershsingh/qcipu-labs-2026-student/blob/main/week-1/04_pi_with_monte_carlo.ipynb) |
+| 5 | Fri, Jun 12 | The Sign Problem | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hershsingh/qcipu-labs-2026-student/blob/main/week-1/05_sign_problem.ipynb) · [view](https://github.com/hershsingh/qcipu-labs-2026-student/blob/main/week-1/05_sign_problem.ipynb) |
 
 ## Week 2
 _June 15–18 · Qubits, gates, and the QFT_

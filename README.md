@@ -21,8 +21,8 @@ _June 15–18 · Qubits, gates, and the QFT_
 
 | # | Date | Lab | Notebook |
 |---|------|-----|----------|
-| 6 | Mon, Jun 15 | 1-Qubit Gates and Noise | _coming soon_ |
-| 7 | Mon, Jun 15 | Schrödinger's Worm and Introducing 2-Qubit Gates | _coming soon_ |
+| 6 | Mon, Jun 15 | 1-Qubit Gates and Noise | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hershsingh/qcipu-labs-2026-student/blob/main/week-2/06_1qubit_gates_and_noise.ipynb) · [view](https://github.com/hershsingh/qcipu-labs-2026-student/blob/main/week-2/06_1qubit_gates_and_noise.ipynb) |
+| 7 | Mon, Jun 15 | Schrödinger's Worm and Introducing 2-Qubit Gates | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hershsingh/qcipu-labs-2026-student/blob/main/week-2/07_schrodingers_worm.ipynb) · [view](https://github.com/hershsingh/qcipu-labs-2026-student/blob/main/week-2/07_schrodingers_worm.ipynb) |
 | 8 | Tue, Jun 16 | 2-Qubits: CNOT and Beyond | _coming soon_ |
 | 9 | Tue, Jun 16 | 2-Qubit Gate Decompositions | _coming soon_ |
 | 10 | Wed, Jun 17 | Quantum Adder ("So I heard you wanted to add numbers quantumly") | _coming soon_ |

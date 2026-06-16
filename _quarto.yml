@@ -29,6 +29,10 @@ website:
         href: week-2/06_1qubit_gates_and_noise.ipynb
       - text: "7. Schrödinger's Worm and Introducing 2-Qubit Gates"
         href: week-2/07_schrodingers_worm.ipynb
+      - text: "8. 2-Qubits: CNOT and Beyond"
+        href: week-2/08_cnot_and_beyond.ipynb
+      - text: "9. 2-Qubit Gate Decompositions"
+        href: week-2/09_two_qubit_gate_decompositions.ipynb
       - week-x/1qubit_gates_visualizing.ipynb
 format:
   html:

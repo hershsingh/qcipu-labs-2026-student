@@ -25,8 +25,8 @@ _June 15–18 · Qubits, gates, and the QFT_
 | 7 | Mon, Jun 15 | Schrödinger's Worm and Introducing 2-Qubit Gates | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hershsingh/qcipu-labs-2026-student/blob/main/week-2/07_schrodingers_worm.ipynb) · [view](https://github.com/hershsingh/qcipu-labs-2026-student/blob/main/week-2/07_schrodingers_worm.ipynb) |
 | 8 | Tue, Jun 16 | 2-Qubits: CNOT and Beyond | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hershsingh/qcipu-labs-2026-student/blob/main/week-2/08_cnot_and_beyond.ipynb) · [view](https://github.com/hershsingh/qcipu-labs-2026-student/blob/main/week-2/08_cnot_and_beyond.ipynb) |
 | 9 | Tue, Jun 16 | 2-Qubit Gate Decompositions | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hershsingh/qcipu-labs-2026-student/blob/main/week-2/09_two_qubit_gate_decompositions.ipynb) · [view](https://github.com/hershsingh/qcipu-labs-2026-student/blob/main/week-2/09_two_qubit_gate_decompositions.ipynb) |
-| 10 | Wed, Jun 17 | Quantum Adder ("So I heard you wanted to add numbers quantumly") | _coming soon_ |
-| 11 | Wed, Jun 17 | Quantum Teleportation | _coming soon_ |
+| 10 | Wed, Jun 17 | Quantum Adder ("So I heard you wanted to add numbers quantumly") | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hershsingh/qcipu-labs-2026-student/blob/main/week-2/10_quantum_adder.ipynb) · [view](https://github.com/hershsingh/qcipu-labs-2026-student/blob/main/week-2/10_quantum_adder.ipynb) |
+| 11 | Wed, Jun 17 | Quantum Teleportation | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hershsingh/qcipu-labs-2026-student/blob/main/week-2/11_quantum_teleportation.ipynb) · [view](https://github.com/hershsingh/qcipu-labs-2026-student/blob/main/week-2/11_quantum_teleportation.ipynb) |
 | 12–13 | Thu, Jun 18 | Quantum Fourier Transform (I & II) | _coming soon_ |
 
 ## Week 3

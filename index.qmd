@@ -40,7 +40,7 @@ _June 15–18 · Qubits, gates, and the QFT_
 | 9 | Tue, Jun 16 | 2-Qubit Gate Decompositions | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hershsingh/qcipu-labs-2026-student/blob/main/week-2/09_two_qubit_gate_decompositions.ipynb) · [view](https://hershsingh.github.io/qcipu-labs-2026-student/week-2/09_two_qubit_gate_decompositions.html) |
 | 10 | Wed, Jun 17 | Quantum Adder ("So I heard you wanted to add numbers quantumly") | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hershsingh/qcipu-labs-2026-student/blob/main/week-2/10_quantum_adder.ipynb) · [view](https://hershsingh.github.io/qcipu-labs-2026-student/week-2/10_quantum_adder.html) |
 | 11 | Wed, Jun 17 | Quantum Teleportation | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hershsingh/qcipu-labs-2026-student/blob/main/week-2/11_quantum_teleportation.ipynb) · [view](https://hershsingh.github.io/qcipu-labs-2026-student/week-2/11_quantum_teleportation.html) |
-| 12–13 | Thu, Jun 18 | Quantum Fourier Transform (I & II) | _coming soon_ |
+| 12–13 | Thu, Jun 18 | Quantum Fourier Transform (I & II) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hershsingh/qcipu-labs-2026-student/blob/main/week-2/12-13_quantum_fourier_transform.ipynb) · [view](https://hershsingh.github.io/qcipu-labs-2026-student/week-2/12-13_quantum_fourier_transform.html) |
 
 ## Week 3
 _June 22–26 · Algorithms, error handling, and the final project_

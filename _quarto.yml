@@ -37,6 +37,8 @@ website:
         href: week-2/10_quantum_adder.ipynb
       - text: "11. Quantum Teleportation"
         href: week-2/11_quantum_teleportation.ipynb
+      - text: "12–13. Quantum Fourier Transform (I & II)"
+        href: week-2/12-13_quantum_fourier_transform.ipynb
       - week-x/1qubit_gates_visualizing.ipynb
 format:
   html:

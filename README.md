@@ -34,8 +34,8 @@ _June 22–26 · Algorithms, error handling, and the final project_
 
 | # | Date | Lab | Notebook |
 |---|------|-----|----------|
-| 14 | Mon, Jun 22 | Quantum Phase Estimation | _coming soon_ |
-| 15–16 | Mon, Jun 22 | Grover's Algorithm (I & II) | _coming soon_ |
+| 14 | Mon, Jun 22 | Quantum Phase Estimation | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hershsingh/qcipu-labs-2026-student/blob/main/week-3/14_quantum_phase_estimation.ipynb) · [view](https://github.com/hershsingh/qcipu-labs-2026-student/blob/main/week-3/14_quantum_phase_estimation.ipynb) |
+| 15–16 | Mon, Jun 22 | Grover's Algorithm (I & II) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hershsingh/qcipu-labs-2026-student/blob/main/week-3/15-16_grovers_algorithm.ipynb) · [view](https://github.com/hershsingh/qcipu-labs-2026-student/blob/main/week-3/15-16_grovers_algorithm.ipynb) |
 | 17 | Tue, Jun 23 | Grover's Algorithm and Sudoku | _coming soon_ |
 | 18 | Tue, Jun 23 | Quantum Error Mitigation I | _coming soon_ |
 | 19 | Wed, Jun 24 | Quantum Error Mitigation II | _coming soon_ |

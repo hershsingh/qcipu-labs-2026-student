@@ -39,6 +39,10 @@ website:
         href: week-2/11_quantum_teleportation.ipynb
       - text: "12–13. Quantum Fourier Transform (I & II)"
         href: week-2/12-13_quantum_fourier_transform.ipynb
+      - text: "14. Quantum Phase Estimation"
+        href: week-3/14_quantum_phase_estimation.ipynb
+      - text: "15–16. Grover's Algorithm (I & II)"
+        href: week-3/15-16_grovers_algorithm.ipynb
       - week-x/1qubit_gates_visualizing.ipynb
 format:
   html:

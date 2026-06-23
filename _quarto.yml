@@ -43,6 +43,10 @@ website:
         href: week-3/14_quantum_phase_estimation.ipynb
       - text: "15–16. Grover's Algorithm (I & II)"
         href: week-3/15-16_grovers_algorithm.ipynb
+      - text: "17. Grover's Algorithm and Sudoku"
+        href: week-3/17_grovers_and_sudoku.ipynb
+      - text: "18. Quantum Error Mitigation I"
+        href: week-3/18_quantum_error_mitigation_I.ipynb
       - week-x/1qubit_gates_visualizing.ipynb
 format:
   html:

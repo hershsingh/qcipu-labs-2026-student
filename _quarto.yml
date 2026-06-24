@@ -5,6 +5,7 @@ project:
   render:
     - index.qmd
     - "week-*/*.ipynb"
+    - "solutions/week-*/*.ipynb"
 website:
   title: "QCIPU 2026 Labs"
   reader-mode: true
@@ -48,6 +49,37 @@ website:
       - text: "18. Quantum Error Mitigation I"
         href: week-3/18_quantum_error_mitigation_I.ipynb
       - week-x/1qubit_gates_visualizing.ipynb
+      - section: "Solutions"
+        contents:
+          - text: "1. Solving the Schrödinger Equation I"
+            href: solutions/week-1/01_schrodinger_equation.ipynb
+          - text: "2. Solving the Schrödinger Equation II"
+            href: solutions/week-1/02_schrodinger_equation_potentials.ipynb
+          - text: "3. Computational Complexity and Sorting"
+            href: solutions/week-1/03_computational_complexity_and_sorting.ipynb
+          - text: "4. Calculating π with Monte Carlo"
+            href: solutions/week-1/04_pi_with_monte_carlo.ipynb
+          - text: "5. The Sign Problem"
+            href: solutions/week-1/05_sign_problem.ipynb
+          - text: "6. 1-Qubit Gates and Noise"
+            href: solutions/week-2/06_1qubit_gates_and_noise.ipynb
+          - text: "7. Schrödinger's Worm and Introducing 2-Qubit Gates"
+            href: solutions/week-2/07_schrodingers_worm.ipynb
+          - text: "8. 2-Qubits: CNOT and Beyond"
+            href: solutions/week-2/08_cnot_and_beyond.ipynb
+          - text: "9. 2-Qubit Gate Decompositions"
+            href: solutions/week-2/09_two_qubit_gate_decompositions.ipynb
+          - text: "10. Quantum Adder"
+            href: solutions/week-2/10_quantum_adder.ipynb
+          - text: "11. Quantum Teleportation"
+            href: solutions/week-2/11_quantum_teleportation.ipynb
+          - text: "12–13. Quantum Fourier Transform (I & II)"
+            href: solutions/week-2/12-13_quantum_fourier_transform.ipynb
+          - text: "14. Quantum Phase Estimation"
+            href: solutions/week-3/14_quantum_phase_estimation.ipynb
+          - text: "15–16. Grover's Algorithm (I & II)"
+            href: solutions/week-3/15-16_grovers_algorithm.ipynb
+          - solutions/week-x/1qubit_gates_visualizing.ipynb
 format:
   html:
     theme: cosmo

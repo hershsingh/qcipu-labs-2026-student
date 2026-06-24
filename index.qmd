@@ -8,6 +8,10 @@ Hands-on Jupyter labs for the **QCIPU 2026** school (June 8–26, 2026).
 taught — so check back each morning for the day's notebook. Labs from earlier in
 the school stay available, and upcoming labs are added as the school progresses.
 
+Worked **solutions** for labs taught on previous days appear under the
+**Solutions** section in the sidebar (a lab's solution is posted the day after
+it is taught).
+
 ## How to use these labs
 
 - Browse labs in the **sidebar** or the tables below.

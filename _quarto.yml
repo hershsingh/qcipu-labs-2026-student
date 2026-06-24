@@ -48,6 +48,10 @@ website:
         href: week-3/17_grovers_and_sudoku.ipynb
       - text: "18. Quantum Error Mitigation I"
         href: week-3/18_quantum_error_mitigation_I.ipynb
+      - text: "19. Quantum Error Mitigation II"
+        href: week-3/19_quantum_error_mitigation_II.ipynb
+      - text: "20. Quantum Error Correction"
+        href: week-3/20_quantum_error_correction.ipynb
       - week-x/1qubit_gates_visualizing.ipynb
       - section: "Solutions"
         contents:
@@ -79,6 +83,10 @@ website:
             href: solutions/week-3/14_quantum_phase_estimation.ipynb
           - text: "15–16. Grover's Algorithm (I & II)"
             href: solutions/week-3/15-16_grovers_algorithm.ipynb
+          - text: "17. Grover's Algorithm and Sudoku"
+            href: solutions/week-3/17_grovers_and_sudoku.ipynb
+          - text: "18. Quantum Error Mitigation I"
+            href: solutions/week-3/18_quantum_error_mitigation_I.ipynb
           - solutions/week-x/1qubit_gates_visualizing.ipynb
 format:
   html:

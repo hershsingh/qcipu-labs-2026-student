@@ -57,8 +57,8 @@ _June 22–26 · Algorithms, error handling, and the final project_
 | 18 | Tue, Jun 23 | Quantum Error Mitigation I | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hershsingh/qcipu-labs-2026-student/blob/main/week-3/18_quantum_error_mitigation_I.ipynb) · [view](https://hershsingh.github.io/qcipu-labs-2026-student/week-3/18_quantum_error_mitigation_I.html) |
 | 19 | Wed, Jun 24 | Quantum Error Mitigation II | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hershsingh/qcipu-labs-2026-student/blob/main/week-3/19_quantum_error_mitigation_II.ipynb) · [view](https://hershsingh.github.io/qcipu-labs-2026-student/week-3/19_quantum_error_mitigation_II.html) |
 | 20 | Wed, Jun 24 | Quantum Error Correction | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hershsingh/qcipu-labs-2026-student/blob/main/week-3/20_quantum_error_correction.ipynb) · [view](https://hershsingh.github.io/qcipu-labs-2026-student/week-3/20_quantum_error_correction.html) |
-| 21 | Thu, Jun 25 | Fault-Tolerant Compilation ("Tolerate It") | _coming soon_ |
-| 22 | Thu, Jun 25 | Final Project (Start) | _coming soon_ |
+| 21 | Thu, Jun 25 | Fault-Tolerant Compilation ("Tolerate It") | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hershsingh/qcipu-labs-2026-student/blob/main/week-3/21_fault_tolerant_compilation.ipynb) · [view](https://hershsingh.github.io/qcipu-labs-2026-student/week-3/21_fault_tolerant_compilation.html) |
+| 22 | Thu, Jun 25 | Final Project (Start) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hershsingh/qcipu-labs-2026-student/blob/main/week-3/22_final_project_start.ipynb) · [view](https://hershsingh.github.io/qcipu-labs-2026-student/week-3/22_final_project_start.html) |
 | 23 | Fri, Jun 26 | Final Project (Continued & Wrap-up) | _coming soon_ |
 
 ## Supplementary notebooks

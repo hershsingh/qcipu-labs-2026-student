@@ -52,6 +52,10 @@ website:
         href: week-3/19_quantum_error_mitigation_II.ipynb
       - text: "20. Quantum Error Correction"
         href: week-3/20_quantum_error_correction.ipynb
+      - text: "21. Fault-Tolerant Compilation"
+        href: week-3/21_fault_tolerant_compilation.ipynb
+      - text: "22. Final Project (Start)"
+        href: week-3/22_final_project_start.ipynb
       - week-x/1qubit_gates_visualizing.ipynb
       - section: "Solutions"
         contents:
@@ -87,6 +91,10 @@ website:
             href: solutions/week-3/17_grovers_and_sudoku.ipynb
           - text: "18. Quantum Error Mitigation I"
             href: solutions/week-3/18_quantum_error_mitigation_I.ipynb
+          - text: "19. Quantum Error Mitigation II"
+            href: solutions/week-3/19_quantum_error_mitigation_II.ipynb
+          - text: "20. Quantum Error Correction"
+            href: solutions/week-3/20_quantum_error_correction.ipynb
           - solutions/week-x/1qubit_gates_visualizing.ipynb
 format:
   html:

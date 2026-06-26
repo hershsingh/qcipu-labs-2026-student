@@ -42,7 +42,7 @@ _June 22–26 · Algorithms, error handling, and the final project_
 | 20 | Wed, Jun 24 | Quantum Error Correction | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hershsingh/qcipu-labs-2026-student/blob/main/week-3/20_quantum_error_correction.ipynb) · [view](https://github.com/hershsingh/qcipu-labs-2026-student/blob/main/week-3/20_quantum_error_correction.ipynb) |
 | 21 | Thu, Jun 25 | Fault-Tolerant Compilation ("Tolerate It") | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hershsingh/qcipu-labs-2026-student/blob/main/week-3/21_fault_tolerant_compilation.ipynb) · [view](https://github.com/hershsingh/qcipu-labs-2026-student/blob/main/week-3/21_fault_tolerant_compilation.ipynb) |
 | 22 | Thu, Jun 25 | Final Project (Start) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hershsingh/qcipu-labs-2026-student/blob/main/week-3/22_final_project_start.ipynb) · [view](https://github.com/hershsingh/qcipu-labs-2026-student/blob/main/week-3/22_final_project_start.ipynb) |
-| 23 | Fri, Jun 26 | Final Project (Continued & Wrap-up) | _coming soon_ |
+| 23 | Fri, Jun 26 | Final Project (Continued & Wrap-up) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hershsingh/qcipu-labs-2026-student/blob/main/week-3/23_final_project.ipynb) · [view](https://github.com/hershsingh/qcipu-labs-2026-student/blob/main/week-3/23_final_project.ipynb) |
 
 ## Supplementary notebooks
 _Alternate / earlier versions kept for reference; not part of the 2026 schedule._

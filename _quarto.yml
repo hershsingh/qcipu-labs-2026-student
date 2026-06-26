@@ -56,6 +56,8 @@ website:
         href: week-3/21_fault_tolerant_compilation.ipynb
       - text: "22. Final Project (Start)"
         href: week-3/22_final_project_start.ipynb
+      - text: "23. Final Project (Continued & Wrap-up)"
+        href: week-3/23_final_project.ipynb
       - week-x/1qubit_gates_visualizing.ipynb
       - section: "Solutions"
         contents:
@@ -95,6 +97,10 @@ website:
             href: solutions/week-3/19_quantum_error_mitigation_II.ipynb
           - text: "20. Quantum Error Correction"
             href: solutions/week-3/20_quantum_error_correction.ipynb
+          - text: "21. Fault-Tolerant Compilation"
+            href: solutions/week-3/21_fault_tolerant_compilation.ipynb
+          - text: "22. Final Project (Start)"
+            href: solutions/week-3/22_final_project_start.ipynb
           - solutions/week-x/1qubit_gates_visualizing.ipynb
 format:
   html:

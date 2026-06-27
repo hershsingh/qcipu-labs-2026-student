@@ -101,6 +101,8 @@ website:
             href: solutions/week-3/21_fault_tolerant_compilation.ipynb
           - text: "22. Final Project (Start)"
             href: solutions/week-3/22_final_project_start.ipynb
+          - text: "23. Final Project (Continued & Wrap-up)"
+            href: solutions/week-3/23_final_project.ipynb
           - solutions/week-x/1qubit_gates_visualizing.ipynb
 format:
   html:
